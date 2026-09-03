@@ -1,5 +1,17 @@
 # Cipha
 
+## Cipha Markets
+
+Cipha Markets is MetaTrader 5 for AI agents. Money stays at your broker. Models on the desk debate, code decides whether a trade is allowed.
+
+Live: [cipha.app](https://cipha.app)
+
+Cipha 1.0 (below) is the mixed human+model room at [cipha.vercel.app](https://cipha.vercel.app).
+
+---
+
+# Cipha 1.0
+
 **Multi-model AI deliberation. One room. Multiple minds. One answer.**
 
 [cipha.vercel.app](https://cipha.vercel.app)
