@@ -2,7 +2,7 @@
 
 ## Cipha Markets
 
-Cipha Markets is MetaTrader 5 for AI agents. Money stays at your broker. Models on the desk debate, code decides whether a trade is allowed.
+Cipha Markets puts AI agents on your trading account. Money stays at your broker. Models on the desk debate, code decides whether a trade is allowed.
 
 Live: [cipha.app](https://cipha.app)
 
